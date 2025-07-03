@@ -9,6 +9,11 @@ In 1.9.1 we added `response.Ok` property to the response as fast way to check if
 
 # Version History
 
+## v2.0.2 7/3/2025
+- **Date:** 7/3/2025
+- **Author:** Eric Luce (eric.luce@proofgeist.com)
+- **Change** Fix parsing of response headers (PR)[https://github.com/proofgeist/mfm-http/pull/11]
+
 ## v2.0.1
 - **Date:** 3/18/2025
 - **Author:** Todd Geist (todd.geist@proofgeist.com)
